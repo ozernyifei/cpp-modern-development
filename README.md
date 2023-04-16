@@ -1,2 +1,2 @@
-# white-belt-cpp
+# cpp-modern-development
 repo for cpp course
